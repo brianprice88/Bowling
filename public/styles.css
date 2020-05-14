@@ -1,5 +1,5 @@
-/* Bowling ball styling c/o https://codepen.io/Tate/pen/KmyGi
-*/
+/* Bowling ball */
+
 .loader-container {
     position: relative;
     width: 700px;
@@ -122,8 +122,7 @@
     font-weight: bold;
   }
 
-  /* Bowling pin styling c/o https://codepen.io/rajnathani/pen/dfmbz
-  */
+  /* Bowling pin */
 
   .pin:before {
     content:"";
